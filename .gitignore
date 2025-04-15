@@ -1,0 +1,5 @@
+.env
+*.png
+/myenv
+/mit-bih-data
+/physionet.org
